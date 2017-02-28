@@ -1,0 +1,241 @@
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+
+.header{
+	width:100%;
+	height:70px;
+	margin-top:10px;
+    margin-bottom:20px;
+
+}
+.welcom{
+    width:1000px;
+    height:35px;
+    margin:0 auto;
+}
+.mycart{
+
+    position:absolute;
+    right:300px;
+    top:5px;
+}
+.navlist{
+
+    width:100%;
+}
+.short_cut{
+
+	height:30px;
+}
+.main{
+	width:1000px;
+    height:800px;
+	margin:0 auto;
+
+}
+
+.img{
+    margin-top: 10px;
+    width:500px;
+    height:410px;
+}
+
+.info{
+    width:400px;
+    border:1px solid #B1AB97;
+    height:410px;
+    margin-top: 10px;
+}
+
+
+.footer{
+	width:100%;
+	height:400px;
+	margin:10px auto 0;
+    background: #F0F0F0;
+
+}
+
+.reg_content{
+    width: 600px;
+    height: 380px;
+    margin: 10px auto 0;
+}
+
+
+
+.form_list{
+    width: 550px;
+    margin:10px auto 0;
+    height: 40px;
+}
+
+.form_list_title{
+    width: 100px;
+    height:40px;
+    float:left;
+    text-align:right;
+    line-height:34px;
+}
+
+.form_list_content{
+    width: 300px;
+    height:40px;
+    float:left;
+    position:relative;
+}
+
+.yzm{
+    position:absolute;
+    top:-3px;
+    right:-120px;
+}
+
+
+.login_box{
+    margin-top:100px;
+}
+
+
+
+.item_list{
+    width: 240px;
+    margin-right:10px;
+}
+
+.item_list:last-child{
+
+    margin-right:0;
+}
+
+.fleft{
+    float: left;
+}
+
+.fright{
+    float: right;
+}
+
+
+.ziti{
+
+    color: red;
+    font-size:18px;
+}
+
+
+/*detail.php*/
+
+.bg_img{
+
+    border:1px solid  #B1AB97;
+    width:430px;
+    height:410px;
+}
+
+
+.sm_img_list:hover{ 
+    cursor:pointer; 
+}
+
+
+
+.sm_img_list{
+    margin-right:5px;
+}
+
+.sm_img_list:last-child {
+
+     margin-right:0;
+  }
+
+
+
+
+
+.detail_list{
+
+    height:30px;
+    line-height: 30px;
+    font-size:15px;
+    margin-bottom: 20px;
+    margin-left:10px;
+}
+.detail_list:first-child{
+    margin-left:0;
+}
+
+.detail_list:last-child{
+    margin-left:130px;
+}
+
+
+.beijingse{
+
+    background: #3B98E3;
+    width:400px;
+    height:50px;
+    font:16px bold;
+    line-height: 50px;
+}
+.anniu{
+    width:300px;
+    margin-right: 10px;
+}
+
+.bziti{
+
+    font-style: bold;
+    color:#0A0598;
+    text-align: center;
+}
+
+.gun{
+    width:1000px;
+    margin:30px auto 20px;
+
+}
+
+.fclear{
+
+    float: both;
+}
+
+
+.content{
+    height:80px;
+    margin:10px auto 0;
+    width:1000px;
+    color:#171717;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center;
+
+}
+.keep{
+width:1300px;
+margin:0 auto;
+}
+.current_page{
+
+    color:#08054D;
+    font-size:18px;
+}
+.fenye{
+
+    text-align: center;
+}
+.pinglun{
+    width:1000px;
+    margin:0 auto;
+}
+
+.coming{
+
+    width:100%;
+    margin: 0 auto ;
+    text-align: center;
+}
